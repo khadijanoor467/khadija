@@ -1,0 +1,32 @@
+{
+  "Mobiles": [
+    {
+      "name": "sumsung a30",
+      "model": "a30",
+      "released": 2018,
+      "pic": "a30.jpg",
+      "price": 30000
+    },
+    {
+      "name": "galaxy core prime",
+      "model": "core prime",
+      "released": 2018,
+      "pic": "coreprime.jpg",
+      "price": 25000
+    },
+    {
+      "name": "huawei y6 prime",
+      "model": "y6 prime",
+      "released": 2018,
+      "pic": "y6.jpg",
+      "price": 35000
+    },
+    {
+      "name": "huawei y7 prime",
+      "model": "y7 prime",
+      "released": 2018,
+      "pic": "y7.jpg",
+      "price": 37000
+    }
+  ]
+}
